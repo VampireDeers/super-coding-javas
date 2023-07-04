@@ -16,7 +16,7 @@ public class Main {
         personDto.setPhone("123-456-7890");
         personDto.setGender("Male");
         personDto.setNationality("American");
-        personDto.setEducation("Bachelor's Degree");
+        personDto.setEducation("Bachelor's Degree2");
 
         System.out.println(personDto);
 
