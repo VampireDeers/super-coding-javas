@@ -1,0 +1,4 @@
+Hello, this is line 1.
+I'm line 2 of the text file.
+And I'm line 3!
+Last line, number 4.
