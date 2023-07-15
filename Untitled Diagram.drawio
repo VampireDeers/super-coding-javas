@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T18:17:03.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="i7RSa2lqH1B8T00ppETR" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-15T18:25:23.527Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YjOAnaecGFT-v0LyFeGF" version="21.6.2" type="github" pages="3">
   <diagram name="Page-1" id="3UBpKPIw6v4pACbYXf6i">
     <mxGraphModel dx="2355" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -91,13 +91,60 @@
           <mxGeometry x="270" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLimCszHGIh9UjFdRfa0-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;이다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="650" y="170" width="130" height="70" as="geometry" />
+          <mxGeometry x="690" y="110" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6cFKN5-pXO3sdAvhrFqA-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;한다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6cFKN5-pXO3sdAvhrFqA-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;속한다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kztWBK8AHm32Uk6etcP6-1" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;변경한다&lt;/b&gt;&lt;/span&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="230" width="130" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L8MopiktcZUUABQ50t6c" name="Page-3">
+    <mxGraphModel dx="1505" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="izOjAP0TNCslitBWAKsO-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;유저&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;항공권&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="770" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;항공편&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="840" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;예약&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;결제&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="750" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;승객&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="410" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;이다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="260" y="490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;한다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;속한다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;한다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;한다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="izOjAP0TNCslitBWAKsO-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;변경한다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="590" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
