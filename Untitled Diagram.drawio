@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T18:01:02.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5_REZsGld_ADUV9F4C24" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-15T18:17:03.872Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="i7RSa2lqH1B8T00ppETR" version="21.6.2" type="github" pages="2">
   <diagram name="Page-1" id="3UBpKPIw6v4pACbYXf6i">
     <mxGraphModel dx="2355" dy="920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,28 +82,22 @@
           <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLimCszHGIh9UjFdRfa0-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;예약&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="350" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLimCszHGIh9UjFdRfa0-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;결제&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="570" y="400" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DLimCszHGIh9UjFdRfa0-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;한다&lt;/b&gt;&lt;/span&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="640" y="190" width="130" height="60" as="geometry" />
+          <mxGeometry x="280" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLimCszHGIh9UjFdRfa0-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 21px;&quot;&gt;승객&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="270" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DLimCszHGIh9UjFdRfa0-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;이다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="680" y="70" width="130" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="DLimCszHGIh9UjFdRfa0-10" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;속한다&lt;/b&gt;&lt;/span&gt;" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="650" y="270" width="130" height="60" as="geometry" />
+          <mxGeometry x="650" y="170" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6cFKN5-pXO3sdAvhrFqA-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;한다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="95" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6cFKN5-pXO3sdAvhrFqA-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;속한다&lt;/font&gt;&lt;/b&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
