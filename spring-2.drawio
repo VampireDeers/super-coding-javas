@@ -1,9 +1,141 @@
-<mxfile host="app.diagrams.net" modified="2023-07-24T10:32:29.755Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.3" etag="feOj6Ae5WKZWCLmzgb2i" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-29T19:03:48.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="DdSO_PARkWTDEjGml4OV" version="21.6.5" type="github">
   <diagram name="Page-1" id="lHA5gA-fGwiKt8Fj2prP">
-    <mxGraphModel>
+    <mxGraphModel dx="1754" dy="1057" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1077/1077114.png;" vertex="1" parent="1">
+          <mxGeometry x="101" y="130" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-2" value="A 계좌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1077/1077114.png;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-4" value="B 계좌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="659" y="90" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-5" value="$ 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-6" value="$ 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="659" y="270" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-7" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1669/1669668.png;" vertex="1" parent="1">
+          <mxGeometry x="369" y="130" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-8" value="은행 시스템" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="370" y="80" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1077/1077114.png;" vertex="1" parent="1">
+          <mxGeometry x="630" y="449" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-13" value="B 계좌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="659" y="399" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-15" value="$ 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="659" y="577" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1669/1669668.png;" vertex="1" parent="1">
+          <mxGeometry x="379" y="450" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-17" value="은행 시스템" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="380" y="400" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-19" value="- 2$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="140" y="290" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-20" value="+ 2$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="664" y="290" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-21" value="98$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="139" y="320" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-22" value="&lt;font color=&quot;#3333ff&quot;&gt;102$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="664" y="320" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-24" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2401/2401234.png;" vertex="1" parent="1">
+          <mxGeometry x="242" y="140" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-25" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2401/2401234.png;" vertex="1" parent="1">
+          <mxGeometry x="522" y="140" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1077/1077114.png;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-27" value="$ 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="570" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-28" value="- 2$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="139" y="600" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-29" value="98$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="138" y="630" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-30" value="A 계좌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="129" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2401/2401234.png;" vertex="1" parent="1">
+          <mxGeometry x="250" y="449" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2401/2401234.png;" vertex="1" parent="1">
+          <mxGeometry x="522" y="462" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-33" value="&lt;strike&gt;+ 2$&lt;/strike&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="664" y="600" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-34" value="$ 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="659" y="639" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-35" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/595/595067.png;" vertex="1" parent="1">
+          <mxGeometry x="541" y="480" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-36" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1077/1077114.png;" vertex="1" parent="1">
+          <mxGeometry x="626" y="750" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-37" value="B 계좌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="655" y="700" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-38" value="$ 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="655" y="878" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-39" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1669/1669668.png;" vertex="1" parent="1">
+          <mxGeometry x="375" y="751" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-40" value="은행 시스템" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="376" y="701" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-41" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1077/1077114.png;" vertex="1" parent="1">
+          <mxGeometry x="96" y="741" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-42" value="$ 98" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="871" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-43" value="+ 2$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="130" y="901" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-45" value="A 계좌" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="125" y="701" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2401/2401234.png;" vertex="1" parent="1">
+          <mxGeometry x="518" y="763" width="108" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-48" value="&lt;strike&gt;+ 2$&lt;/strike&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="660" y="901" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-49" value="$ 100" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="655" y="940" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/595/595067.png;" vertex="1" parent="1">
+          <mxGeometry x="537" y="781" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/709/709624.png;" vertex="1" parent="1">
+          <mxGeometry x="240" y="730" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="M1r4ujwK7iBTsgi3fb3B-52" value="&lt;font color=&quot;#3333ff&quot;&gt;100$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;strokeWidth=9;fontSize=18;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="133" y="940" width="60" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
