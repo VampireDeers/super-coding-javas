@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T14:03:44.976Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="SOdBhDNj1VaNZiIwezFF" version="21.6.6" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2023-08-06T14:30:51.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HQWl_NwOQt8qtckWiB88" version="21.6.6" type="github" pages="17">
   <diagram name="Page-1" id="QTMxGegnCNpjfp5SFE8Y">
     <mxGraphModel dx="3052" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1697,6 +1697,208 @@
         </mxCell>
         <mxCell id="VgB26fPfCq47QsVcuP7R-11" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;내가 내 정보 다 들고있을게&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-130" y="310" width="340" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ahkAdkMVD1bVG0oQ3EQH" name="Page-16">
+    <mxGraphModel dx="2284" dy="2327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ngnpJowDVkYrd5DQYK43-2" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="347" width="210" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1383/1383395.png;" vertex="1" parent="1">
+          <mxGeometry x="230" y="41" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="93" as="sourcePoint" />
+            <mxPoint x="230" y="93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/6009/6009864.png;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="40" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-4" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;여기 나의 ID랑 PW&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-70" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;김00 님이군여, 로그인 되었습니다.&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="-70" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-6" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;abc 1234&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="30" y="41" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-7" value="&lt;b&gt;**********&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="35" y="63" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-8" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="400" y="10" width="180" height="118" as="geometry" />
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-9" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;Key 1&lt;/font&gt;: 김00님&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="425" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.031;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="G7-7EUYheABmeG6pWEER-1" target="G7-7EUYheABmeG6pWEER-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="150" as="sourcePoint" />
+            <mxPoint x="230" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="226" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G7-7EUYheABmeG6pWEER-11" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;세션 ID: &lt;font color=&quot;#ff6666&quot;&gt;Key 1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="15" y="128" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pSl-4lfjsS51MHNsm-Hw-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1383/1383395.png;" vertex="1" parent="1">
+          <mxGeometry x="260" y="391" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="pSl-4lfjsS51MHNsm-Hw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="443" as="sourcePoint" />
+            <mxPoint x="260" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSl-4lfjsS51MHNsm-Hw-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/6009/6009864.png;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="390" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="pSl-4lfjsS51MHNsm-Hw-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;김00 님이군요, 알겠습니다.&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pSl-4lfjsS51MHNsm-Hw-8" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="450" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="pSl-4lfjsS51MHNsm-Hw-9" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;Key 1&lt;/font&gt;: 김00님&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="425" y="550" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pSl-4lfjsS51MHNsm-Hw-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.031;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="pSl-4lfjsS51MHNsm-Hw-1" target="pSl-4lfjsS51MHNsm-Hw-3" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-10" y="500" as="sourcePoint" />
+            <mxPoint x="260" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="256" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pSl-4lfjsS51MHNsm-Hw-11" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;세션 ID: &lt;font color=&quot;#ff6666&quot;&gt;Key 1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="60" y="404" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngnpJowDVkYrd5DQYK43-1" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;고마워, 내 주문 목록 보여줘&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-150" y="290" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ngnpJowDVkYrd5DQYK43-3" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;세션 ID: &lt;font color=&quot;#ff6666&quot;&gt;Key 1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="380" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngnpJowDVkYrd5DQYK43-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/164/164659.png;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="310" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ngnpJowDVkYrd5DQYK43-5" value="&lt;b&gt;김00 주문목록&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="60" y="478" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngnpJowDVkYrd5DQYK43-6" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;Key 2&lt;/font&gt;: 나00님&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="425" y="580" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngnpJowDVkYrd5DQYK43-7" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font color=&quot;#ff6666&quot;&gt;Key 3&lt;/font&gt;: 박00님&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="425" y="610" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ngnpJowDVkYrd5DQYK43-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;메모리&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="490" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NH4rvEVwvMHsNPJvHLao" name="Page-17">
+    <mxGraphModel dx="2284" dy="2327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1383/1383395.png;" vertex="1" parent="1">
+          <mxGeometry x="230" y="41" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="93" as="sourcePoint" />
+            <mxPoint x="230" y="93" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/6009/6009864.png;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="40" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-4" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;여기 나의 ID랑 PW&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-190" y="-70" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;김00 님이군여, 로그인 되었습니다.&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="190" y="-70" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-6" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;abc 1234&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="30" y="41" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-7" value="&lt;b&gt;**********&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="35" y="63" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.031;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="jE1qaoxCDmM6O97D2wPR-1" target="jE1qaoxCDmM6O97D2wPR-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-40" y="150" as="sourcePoint" />
+            <mxPoint x="230" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="226" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-11" value="&lt;b&gt;토큰 생성 &amp;amp; 검증&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="400" y="180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-14" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="400" y="101" width="137.57" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2682/2682893.png;" vertex="1" parent="1">
+          <mxGeometry x="30" y="133" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-16" value="&lt;b&gt;토큰&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="98" y="150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/1383/1383395.png;" vertex="1" parent="1">
+          <mxGeometry x="220" y="441" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="493" as="sourcePoint" />
+            <mxPoint x="220" y="493" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/6009/6009864.png;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="440" width="130" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-20" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;고마워, 나의 주문목록 보여줘&lt;/span&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-200" y="330" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-21" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;김00 님이군여, 알겠습니다..&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="340" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=-0.031;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" source="jE1qaoxCDmM6O97D2wPR-17" target="jE1qaoxCDmM6O97D2wPR-19" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="550" as="sourcePoint" />
+            <mxPoint x="220" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="216" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-25" value="&lt;b&gt;토큰 생성 &amp;amp; 검증&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="390" y="501" width="137.57" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2682/2682893.png;" vertex="1" parent="1">
+          <mxGeometry x="50" y="435" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="jE1qaoxCDmM6O97D2wPR-28" value="&lt;b&gt;토큰&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="100" y="444" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qx1A6wxkuJPjYKvTlpwc-1" value="&lt;b&gt;김00 주문목록&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="20" y="535" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
