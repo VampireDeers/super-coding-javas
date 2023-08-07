@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T14:30:51.904Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="HQWl_NwOQt8qtckWiB88" version="21.6.6" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2023-08-07T01:25:26.228Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Bf7lPVgjQ4QMC8ZO2c90" version="21.6.6" type="github" pages="17">
   <diagram name="Page-1" id="QTMxGegnCNpjfp5SFE8Y">
     <mxGraphModel dx="3052" dy="1261" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1809,7 +1809,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NH4rvEVwvMHsNPJvHLao" name="Page-17">
-    <mxGraphModel dx="2284" dy="2327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3052" dy="2361" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1892,10 +1892,10 @@
           <mxGeometry x="390" y="501" width="137.57" height="69" as="geometry" />
         </mxCell>
         <mxCell id="jE1qaoxCDmM6O97D2wPR-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/128/2682/2682893.png;" vertex="1" parent="1">
-          <mxGeometry x="50" y="435" width="48" height="48" as="geometry" />
+          <mxGeometry x="47" y="430" width="53" height="53" as="geometry" />
         </mxCell>
         <mxCell id="jE1qaoxCDmM6O97D2wPR-28" value="&lt;b&gt;토큰&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="100" y="444" width="50" height="30" as="geometry" />
+          <mxGeometry x="100" y="441.5" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qx1A6wxkuJPjYKvTlpwc-1" value="&lt;b&gt;김00 주문목록&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="20" y="535" width="120" height="30" as="geometry" />
